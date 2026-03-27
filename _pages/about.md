@@ -9,8 +9,14 @@ redirect_from:
 
 I joined Huawei Wireless Network Research Department (2023) through Huawei’s Top Minds program(“天才少年”计划). I earned my Ph.D. from Tsinghua University in 2023, supervised by Prof. FeiFei Gao. I received my bachelor's degree from Xidian University in 2018, supervised by Prof. Wenchi Cheng.
 
-My research interests primarily focus on Net4AI, Smart Grid Analytics, Multi-modal Scientific Large Models, On-device Agents.
+My current research interests primarily focus on Net4AI and AI4Net.
 
+### Research Interests
+My research lies at the intersection of **Artificial Intelligence** and **Next-generation Networking**, specifically focusing on the reciprocal relationship between them:
+
+* **AI4Net (AI for Networking):** Enhancing network efficiency and autonomy through ML/DRL. I am particularly interested in intelligent traffic engineering and proactive network maintenance.
+* **Net4AI (Networking for AI):** Designing robust and low-latency network architectures to support large-scale distributed AI systems, with a focus on Federated Learning and In-Network Computing.
+  
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
