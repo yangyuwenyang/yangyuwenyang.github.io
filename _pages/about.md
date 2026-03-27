@@ -11,7 +11,7 @@ I joined Huawei Wireless Network Research Department (2023) through Huawei’s T
 
 My current research interests primarily focus on Net4AI and AI4Net.
 
-### Research Interests
+## Research Interests
 My research lies at the intersection of **Artificial Intelligence** and **Next-generation Networking**, specifically focusing on the reciprocal relationship between them:
 
 * **AI4Net (AI for Networking):** Enhancing network efficiency and autonomy through ML/DRL. I am particularly interested in intelligent traffic engineering and proactive network maintenance.
