@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I joined Huawei Wireless Network Research Department (2023) through Huawei’s Top Minds program(“天才少年”计划). I earned my Ph.D. from Tsinghua University in 2023, supervised by Prof. FeiFei Gao. I received my bachelor's degree from Xidian University in 2018, supervised by Prof. Wenchi Cheng.
+I joined Huawei Wireless Network Research Department (2023) through Huawei’s Top Minds program(“天才少年”计划). I earned my Ph.D. from Tsinghua University in 2023, supervised by Prof. FeiFei Gao. I received my bachelor's degree from Xidian University in 2018, supervised by Prof. Wenchi Cheng. For more details, please refer to my CV.
 
 
 ## Research Interests
