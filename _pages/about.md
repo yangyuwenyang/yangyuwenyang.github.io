@@ -41,7 +41,7 @@ My research lies at the intersection of **Artificial Intelligence** and **Next-g
 
         <div style="background-color: #ffffff; padding: 12px; border-radius: 8px; font-size: 1em; border: 1px dashed #1a5a96;">
             <b style="color: #1a5a96;">🎁 What you will gain / 能够获得：</b>
-            <ul style="margin-top: 5px; margin-bottom: 0; padding-left: 18px; line-height: 1.5;">
+            <ul style="margin-top: 5px; margin-bottom: 0; padding-left: 18px; line-height: 1.5; font-size: 1em">
                 <li><b>Resources:</b> High-value research topics with ample computing & hardware support. <br> <small style="color: #666;">前沿课题与充足的计算资源/硬件支撑</small></li>
                 <li><b>Authorship:</b> Professional guidance & publication (guaranteed authorship). <br> <small style="color: #666;">科研指导与论文发表（保障学生署名权）</small></li>
                 <li><b>Future:</b> Strong recommendation letters for further studies. <br> <small style="color: #666;">升学、深造或出国留学的推荐信</small></li>
