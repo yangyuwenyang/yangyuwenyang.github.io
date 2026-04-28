@@ -21,18 +21,48 @@ Interested in research collaboration? Please contact me at [yyw@maills.com]() wi
 I am always looking for motivated students.
 If you are interested in joining my research group, please email me at yyw@maills.com and include your CV/resume.
 
-<div style="padding: 1.5em; background-color: #f8f9fa; border-left: 5px solid #007bff; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.05); margin-bottom: 2em;">
-  <h3 style="margin-top: 0; color: #007bff;">🚀 Prospective Students</h3>
-  <p style="font-size: 0.95em; line-height: 1.6;">
-    I am actively seeking motivated students to join my research group. If you are interested in <b>Semantic Communications</b> or <b>Wireless AI</b>, please send your CV to 
-    <a href="mailto:yyw@maills.com" style="color: #007bff; font-weight: bold; text-decoration: none;">yyw@maills.com</a>.
-  </p>
+<div style="background-color: #fcfcfc; border: 1.5px solid #2c3e50; border-radius: 12px; padding: 25px; margin: 25px 0; box-shadow: 0 5px 15px rgba(0,0,0,0.08);">
+    
+    <h3 style="margin-top: 0; color: #1a5a96; border-bottom: 2px solid #1a5a96; padding-bottom: 8px;">
+        🚀 Join Our Research Group / 加入研究小组
+    </h3>
+    <p style="line-height: 1.6; color: #333;">
+        I am actively seeking motivated <b>undergraduate students</b> for research collaborations and <b>prospective graduates</b> for <b>Huawei</b> internships/recruitment. <br>
+        我长期寻找有内驱力的<b>本科生/硕士生</b>开展科研合作，并为<b>准毕业生</b>提供<b>华为</b>实习及正式招聘的内推机会。
+    </p>
+
+    <div style="margin-top: 20px;">
+        <h4 style="color: #2c3e50; margin-bottom: 10px;">📍 For Undergraduates / 本科生申请要求</h4>
+        <ul style="font-size: 0.95em; line-height: 1.6; color: #444;">
+            <li><b>Background:</b> CS, EE, or related fields. <br> <small style="color: #666;">计算机科学、电子工程或相关专业背景。</small></li>
+            <li><b>Interests:</b> Strong passion for AI and Wireless Communications. <br> <small style="color: #666;">热爱科研，对人工智能、无线通信有浓厚兴趣。</small></li>
+            <li><b>Skills:</b> Proficient in Python/C++; experience in Embedded Systems is a plus. <br> <small style="color: #666;">良好的编程能力，有嵌入式开发经验者优先。</small></li>
+            <li><b>Bonus:</b> Experience in ACM-ICPC, Kaggle, or a record of publications. <br> <small style="color: #666;">加分项：有 ACM, ICPC, Kaggle 竞赛经验或论文发表经历。</small></li>
+        </ul>
+        <div style="background-color: #eff6ff; padding: 12px; border-radius: 8px; font-size: 0.9em; border-left: 4px solid #1a5a96;">
+            <b>What we offer / 能够获得：</b><br>
+            1. High-value research topics with ample computing & hardware resources. (前沿课题与资源支持)<br>
+            2. Research guidance & publication (guaranteed authorship). (科研指导与论文署名保障)<br>
+            3. Recommendation letters for further studies. (升学/深造推荐信)
+        </div>
+    </div>
+
+    <div style="margin-top: 20px;">
+        <h4 style="color: #2c3e50; margin-bottom: 10px;">📍 For Huawei Opportunities / 实习及招聘内推</h4>
+        <p style="font-size: 0.95em; line-height: 1.6; color: #444;">
+            <b>Requirements:</b> Proven achievements in <b>Semantic Communications</b> or <b>Wireless Sensing</b>. <br>
+            <small style="color: #666;">要求：在语义通信、无线感知方面有一定成果积累。</small> <br>
+            <b>Note:</b> I provide internal referrals (resume forwarding) for qualified candidates. Final decisions are made via the official recruitment process. <br>
+            <small style="color: #666;">说明：我将为合适候选人提供简历内推，最终录用结果取决于正式招聘流程。</small>
+        </p>
+    </div>
+
+    <div style="margin-top: 20px; text-align: center; border-top: 1px solid #eee; padding-top: 15px;">
+        <span style="font-weight: bold; color: #1a5a96;">📩 Contact: </span>
+        <a href="mailto:yyw@maills.com" style="text-decoration: none; color: #1a5a96; font-weight: bold; font-size: 1.1em;">yyw@maills.com</a>
+        <br><small style="color: #888;">(Please attach your CV / 请随信附上简历)</small>
+    </div>
 </div>
-
-{: .notice--info}
-### 📢 Prospective Students
-I am always looking for highly motivated students interested in **Semantic Communications**, **6G**, and **Wireless AI**. If you are interested in joining my research group, please feel free to reach out via [yyw@maills.com](mailto:yyw@maills.com) with your CV attached.
-
 
 <div style="
     background-color: #f0f7ff; 
@@ -47,15 +77,15 @@ I am always looking for highly motivated students interested in **Semantic Commu
         Prospective Students
     </h3>
     <p style="color: #333; line-height: 1.7; font-size: 1.05em; margin-bottom: 10px;">
-        I am actively looking for self-motivated <b>PhD / Master students</b> and <b>Postdocs</b> who are interested in:
+        I am actively looking for undergraduate and master students interested in research collaboration. I also facilitate Huawei internships and career opportunities for graduating students.
     </p>
     <ul style="color: #444; margin-bottom: 15px;">
         <li><b>Semantic Communications</b> (JSCC, Knowledge Graph, etc.)</li>
         <li><b>Wireless AI</b> & 6G Networks</li>
     </ul>
     <p style="background-color: #fff; padding: 10px; border-radius: 6px; border: 1px dashed #2e6cb3; font-size: 0.95em;">
-        📩 If you are interested, please send your <b>CV</b> and <b>Transcripts</b> to: 
-        <a href="mailto:yyw@maills.com" style="text-decoration: none; color: #2e6cb3; font-weight: bold;">yyw@maills.com</a>
+        📩 If you are interested, please send your <b>CV</b> to: 
+        <a href="mailto:yyw18@tsinghua.org.cn" style="text-decoration: none; color: #2e6cb3; font-weight: bold;">yyw18@tsinghua.org.cn</a>
     </p>
 </div>
 
