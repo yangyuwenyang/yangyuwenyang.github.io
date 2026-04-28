@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I joined Huawei Wireless Network Research Department (2023) through Huawei’s Top Minds program(“天才少年”计划). I earned my Ph.D. from Tsinghua University in 2023, supervised by Prof. FeiFei Gao. I received my bachelor's degree from Xidian University in 2018, supervised by Prof. Wenchi Cheng.  
+I joined the Huawei Wireless Network Research Department in 2023 through Huawei’s Top Minds Program (“天才少年”计划) and became a Project Leader in 2025.
+I earned my Ph.D. from Tsinghua University in 2023, supervised by Prof. FeiFei Gao. I received my bachelor's degree from Xidian University in 2018, supervised by Prof. Wenchi Cheng.  
 
 
 Research Interests
@@ -48,7 +49,7 @@ If you are interested in joining my research group, please email me at yyw@maill
     </div>
 
     <div style="margin-top: 20px;">
-        <h4 style="color: #2c3e50; margin-bottom: 10px;">📍 For Huawei Opportunities / 实习及招聘内推</h4>
+        <h4 style="color: #2c3e50; margin-bottom: 10px;font-size: 1.2em">📍 For Huawei Opportunities / 实习及招聘内推</h4>
         <p style="font-size: 0.95em; line-height: 1.6; color: #444;">
             <b>Requirements:</b> Proven achievements in <b>Semantic Communications</b> or <b>Wireless Sensing</b>. <br>
             <small style="color: #666;">要求：在语义通信、无线感知方面有一定成果积累。</small> <br>
