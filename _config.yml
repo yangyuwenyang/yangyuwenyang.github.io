@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Yuwen Yang, Ph.D. (杨玉雯)"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  # bio              : "Huawei Technologies"
+  location         : "Shanghai"
+  employer         : "Huawei Technologies"
   uri              : # URL
   email            : "yyw18@tsinghua.org.cn" 
 
