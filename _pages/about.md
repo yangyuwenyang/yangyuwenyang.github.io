@@ -43,7 +43,7 @@ If you are interested in joining my research group, please email me at yyw@maill
             <li><b>Bonus:</b> ACM/ICPC, Kaggle prizes, or publication records. (加分项：竞赛获奖或科研经历)</li>
         </ul>
 
-        <div style="background-color: #ffffff; padding: 12px; border-radius: 8px; font-size: 0.9em; border: 1px dashed #1a5a96;">
+        <div style="background-color: #ffffff; padding: 12px; border-radius: 8px; font-size: 1em; border: 1px dashed #1a5a96;">
             <b style="color: #1a5a96;">🎁 What you will gain / 能够获得：</b>
             <ul style="margin-top: 5px; margin-bottom: 0; padding-left: 18px; line-height: 1.5;">
                 <li><b>Resources:</b> High-value research topics with ample computing & hardware support. <br> <small style="color: #666;">前沿课题与充足的计算资源/硬件支撑</small></li>
