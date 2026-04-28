@@ -7,14 +7,21 @@ redirect_from:
   - /about.html
 ---
 
-I joined Huawei Wireless Network Research Department (2023) through Huawei’s Top Minds program(“天才少年”计划). I earned my Ph.D. from Tsinghua University in 2023, supervised by Prof. FeiFei Gao. I received my bachelor's degree from Xidian University in 2018, supervised by Prof. Wenchi Cheng. For more details, please refer to my CV.
+I joined Huawei Wireless Network Research Department (2023) through Huawei’s Top Minds program(“天才少年”计划). I earned my Ph.D. from Tsinghua University in 2023, supervised by Prof. FeiFei Gao. I received my bachelor's degree from Xidian University in 2018, supervised by Prof. Wenchi Cheng.  
 
 
-## Research Interests
+Research Interests
 My research lies at the intersection of **Artificial Intelligence** and **Next-generation Networking**, specifically focusing on the reciprocal relationship between them:
 
 * **Net4AI (Networking for AI):** leveraging the communication, sensing, and computing capabilities of wireless networks to enhance the user experience of AI applications (such as intelligent robotics and wearables). Key topics include: device-network collaborative AI inference, semantic communications, embodied AI navigation, AI interactive sensing.
 * **AI4Net (AI for Networking):** utilizing AI algorithms to optimize the communication and sensing performance of wireless networks. Key topics include: intelligent physical layer, environment-sensing aided communications.
+
+
+Academic Achievements
+======
+- 10 SCI journal publications (9 as the first author) and 3 conference papers.
+- 3 papers with 200+ citations each. Total citations exceeding 1,100 [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=u-Nbg0wAAAAJ).
+- 21 authorized invention patents.
 
 
 Academic services
