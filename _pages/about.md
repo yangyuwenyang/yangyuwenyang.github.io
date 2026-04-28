@@ -18,10 +18,6 @@ My research lies at the intersection of **Artificial Intelligence** and **Next-g
 * **Net4AI (Networking for AI):** leveraging the communication, sensing, and computing capabilities of wireless networks to enhance the user experience of AI applications (such as intelligent robotics and wearables). Key topics include: device-network collaborative AI inference, semantic communications, embodied AI navigation, AI interactive sensing.
 * **AI4Net (AI for Networking):** utilizing AI algorithms to optimize the communication and sensing performance of wireless networks. Key topics include: intelligent physical layer, environment-sensing aided communications.
 
-Interested in research collaboration? Please contact me at [yyw@maills.com]() with your CV.
-I am always looking for motivated students.
-If you are interested in joining my research group, please email me at yyw@maills.com and include your CV/resume.
-
 <div style="background-color: #ffffff; border: 1.5px solid #2c3e50; border-radius: 12px; padding: 25px; margin: 25px 0; box-shadow: 0 5px 15px rgba(0,0,0,0.08);">
     
     <h3 style="margin-top: 0; color: #1a5a96; border-bottom: 2px solid #1a5a96; padding-bottom: 8px; text-align: center;">
