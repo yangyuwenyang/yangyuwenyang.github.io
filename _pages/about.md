@@ -70,7 +70,7 @@ My research lies at the intersection of **Artificial Intelligence** and **Next-g
     <div style="margin-top: 25px; text-align: center; border-top: 1px solid #eee; padding-top: 20px;">
         <span style="font-weight: bold; color: #1a5a96;">📩 Contact: </span>
         <a href="mailto:yyw18@tsinghua.org.cn" style="text-decoration: none; color: #1a5a96; font-weight: bold; font-size: 1.15em;">yyw18@tsinghua.org.cn</a>
-        <br><small style="color: #888;">(Please attach your CV and Transcripts / 请随信附上简历与成绩单)</small>
+        <br><small style="color: #888;">(Please attach your CV and Transcripts / 请随信附上简历及证明材料)</small>
     </div>
 </div>
 -------------
