@@ -15,8 +15,8 @@ Research Interests
 ======
 My research lies at the intersection of **Artificial Intelligence** and **Next-generation Networking**, specifically focusing on the reciprocal relationship between them:
 
-* **Net4AI (Networking for AI):** leveraging the communication, sensing, and computing capabilities of wireless networks to enhance the user experience of AI applications (such as intelligent robotics and wearables). Key topics include: device-network collaborative AI inference, semantic communications, embodied AI navigation, AI interactive sensing.
-* **AI4Net (AI for Networking):** utilizing AI algorithms to optimize the communication and sensing performance of wireless networks. Key topics include: intelligent physical layer, environment-sensing aided communications.
+* **Net4AI:** leveraging the communication, sensing, and computing capabilities of wireless networks to enhance the user experience of AI applications (such as intelligent robotics and wearables). Key topics include: device-network collaborative AI inference, semantic communications, embodied AI navigation, AI interactive sensing.
+* **AI4Net:** utilizing AI algorithms to optimize the communication and sensing performance of wireless networks. Key topics include: intelligent physical layer, environment-sensing aided communications.
 
 <div style="background-color: #ffffff; border: 1.5px solid #2c3e50; border-radius: 12px; padding: 25px; margin: 25px 0; box-shadow: 0 5px 15px rgba(0,0,0,0.08);">
     
