@@ -11,11 +11,53 @@ I joined Huawei Wireless Network Research Department (2023) through Huawei’s T
 
 
 Research Interests
+======
 My research lies at the intersection of **Artificial Intelligence** and **Next-generation Networking**, specifically focusing on the reciprocal relationship between them:
 
 * **Net4AI (Networking for AI):** leveraging the communication, sensing, and computing capabilities of wireless networks to enhance the user experience of AI applications (such as intelligent robotics and wearables). Key topics include: device-network collaborative AI inference, semantic communications, embodied AI navigation, AI interactive sensing.
 * **AI4Net (AI for Networking):** utilizing AI algorithms to optimize the communication and sensing performance of wireless networks. Key topics include: intelligent physical layer, environment-sensing aided communications.
 
+Interested in research collaboration? Please contact me at [yyw@maills.com]() with your CV.
+I am always looking for motivated students.
+If you are interested in joining my research group, please email me at yyw@maills.com and include your CV/resume.
+
+<div style="padding: 1.5em; background-color: #f8f9fa; border-left: 5px solid #007bff; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.05); margin-bottom: 2em;">
+  <h3 style="margin-top: 0; color: #007bff;">🚀 Prospective Students</h3>
+  <p style="font-size: 0.95em; line-height: 1.6;">
+    I am actively seeking motivated students to join my research group. If you are interested in <b>Semantic Communications</b> or <b>Wireless AI</b>, please send your CV to 
+    <a href="mailto:yyw@maills.com" style="color: #007bff; font-weight: bold; text-decoration: none;">yyw@maills.com</a>.
+  </p>
+</div>
+
+{: .notice--info}
+### 📢 Prospective Students
+I am always looking for highly motivated students interested in **Semantic Communications**, **6G**, and **Wireless AI**. If you are interested in joining my research group, please feel free to reach out via [yyw@maills.com](mailto:yyw@maills.com) with your CV attached.
+
+
+<div style="
+    background-color: #f0f7ff; 
+    border: 2px solid #2e6cb3; 
+    border-radius: 12px; 
+    padding: 20px 25px; 
+    margin: 20px 0; 
+    box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+">
+    <h3 style="margin-top: 0; color: #2e6cb3; display: flex; align-items: center;">
+        <span style="font-size: 1.5em; margin-right: 10px;">📢</span> 
+        Prospective Students
+    </h3>
+    <p style="color: #333; line-height: 1.7; font-size: 1.05em; margin-bottom: 10px;">
+        I am actively looking for self-motivated <b>PhD / Master students</b> and <b>Postdocs</b> who are interested in:
+    </p>
+    <ul style="color: #444; margin-bottom: 15px;">
+        <li><b>Semantic Communications</b> (JSCC, Knowledge Graph, etc.)</li>
+        <li><b>Wireless AI</b> & 6G Networks</li>
+    </ul>
+    <p style="background-color: #fff; padding: 10px; border-radius: 6px; border: 1px dashed #2e6cb3; font-size: 0.95em;">
+        📩 If you are interested, please send your <b>CV</b> and <b>Transcripts</b> to: 
+        <a href="mailto:yyw@maills.com" style="text-decoration: none; color: #2e6cb3; font-weight: bold;">yyw@maills.com</a>
+    </p>
+</div>
 
 Academic Achievements
 ======
