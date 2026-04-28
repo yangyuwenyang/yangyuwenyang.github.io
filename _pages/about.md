@@ -16,6 +16,13 @@ My research lies at the intersection of **Artificial Intelligence** and **Next-g
 * **Net4AI (Networking for AI):** leveraging the communication, sensing, and computing capabilities of wireless networks to enhance the user experience of AI applications (such as intelligent robotics and wearables). Key topics include: device-network collaborative AI inference, semantic communications, embodied AI navigation, AI interactive sensing.
 * **AI4Net (AI for Networking):** utilizing AI algorithms to optimize the communication and sensing performance of wireless networks. Key topics include: intelligent physical layer, environment-sensing aided communications.
 
+
+Academic services
+======
+1. 2025.12, IEEE Global Communications Conference (GLOBECOM) Workshop-["Semantic Communications Meets Wireless in AI Era"](https://globecom2025.ieee-globecom.org/workshop/ws-03-semantic-communications-meets-wireless-ai-era), TPC Chair.
+2. 2025.04, 移动智能通信网络(MICoN)论坛-["语义通信技术研究进展及未来方向"](https://mp.weixin.qq.com/s/DfQkfFNaSR7zqhXMZ2OsXA), Invited Speaker.
+
+   
 Honors
 ======
 * 北京市教育委员会-北京市优秀毕业生，2023
@@ -30,8 +37,4 @@ Honors
 * 西安电子科技大学-新生特等奖学金，2015
 
 
-Academic services
-======
-1. 2025.12, IEEE Global Communications Conference (GLOBECOM) Workshop-["Semantic Communications Meets Wireless in AI Era"](https://globecom2025.ieee-globecom.org/workshop/ws-03-semantic-communications-meets-wireless-ai-era), TPC Chair.
-2. 2025.04, 移动智能通信网络(MICoN)论坛-["语义通信技术研究进展及未来方向"](https://mp.weixin.qq.com/s/DfQkfFNaSR7zqhXMZ2OsXA), Invited Speaker.
 
