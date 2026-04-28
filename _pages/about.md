@@ -27,6 +27,60 @@ If you are interested in joining my research group, please email me at yyw@maill
     <h3 style="margin-top: 0; color: #1a5a96; border-bottom: 2px solid #1a5a96; padding-bottom: 8px;">
         🚀 Join Our Research Group / 加入研究小组
     </h3>
+    <p style="line-height: 1.6; color: #333; margin-bottom: 25px;">
+        I am actively seeking motivated <b>undergraduate students</b> for research collaborations and <b>prospective graduates</b> for <b>Huawei</b> internships/recruitment. <br>
+        我长期寻找有内驱力的<b>本科生/硕士生</b>开展科研合作，并为<b>准毕业生</b>提供<b>华为</b>实习及正式招聘的内推机会。
+    </p>
+
+    <div style="border: 1px solid #d1e2f3; background-color: #f9fbfe; border-radius: 10px; padding: 20px; margin-bottom: 30px;">
+        <h4 style="color: #1a5a96; margin-top: 0; margin-bottom: 15px; font-size: 1.35em; font-weight: bold; border-left: 5px solid #1a5a96; padding-left: 10px;">
+            📍 For Undergraduates / 本科生科研合作
+        </h4>
+        
+        <p style="font-weight: bold; color: #444; margin-bottom: 8px;">Application Requirements / 申请要求：</p>
+        <ul style="font-size: 0.95em; line-height: 1.6; color: #444; margin-bottom: 15px;">
+            <li><b>Background:</b> CS, EE, or related fields. (计算机、电子或相关专业)</li>
+            <li><b>Interests:</b> Passion for AI and Wireless Communications. (对人工智能、无线通信有浓厚兴趣)</li>
+            <li><b>Skills:</b> Proficient in Python/C++; Embedded experience is a plus. (良好的编程能力，有嵌入式经验优先)</li>
+            <li><b>Bonus:</b> ACM/ICPC, Kaggle prizes, or publication records. (加分项：竞赛获奖或有论文发表经历)</li>
+        </ul>
+
+        <div style="background-color: #ffffff; padding: 15px; border-radius: 8px; font-size: 0.95em; border: 1px dashed #1a5a96;">
+            <b style="color: #1a5a96;">🎁 What you will gain / 能够获得：</b>
+            <ol style="margin-top: 8px; margin-bottom: 0; padding-left: 20px; line-height: 1.6;">
+                <li><b>Resources:</b> High-value research topics with ample computing & hardware support. <br> <small style="color: #666;">前沿课题与充足的计算资源/硬件支撑</small></li>
+                <li><b>Authorship:</b> Professional guidance & publication (guaranteed authorship). <br> <small style="color: #666;">科研指导与论文发表（保障学生署名权）</small></li>
+                <li><b>Future:</b> Strong recommendation letters for further studies. <br> <small style="color: #666;">升学、深造或出国留学的推荐信</small></li>
+            </ol>
+        </div>
+    </div>
+
+    <div style="padding: 10px 20px;">
+        <h4 style="color: #2c3e50; margin-top: 0; margin-bottom: 12px; font-size: 1.35em; font-weight: bold;">
+            📍 For Huawei Opportunities / 实习及招聘内推
+        </h4>
+        <p style="font-size: 1em; line-height: 1.6; color: #333;">
+            <b>Target:</b> Graduating students with proven achievements in <b>Semantic Communications</b> or <b>Wireless Sensing</b>. <br>
+            <small style="color: #666; font-size: 0.95em;">面向在语义通信、无线感知方面有一定成果积累的准毕业生。</small> 
+        </p>
+        <p style="font-size: 1em; line-height: 1.6; color: #333;">
+            <b>Support:</b> I provide internal referrals (resume forwarding) for qualified candidates. <br>
+            <small style="color: #666; font-size: 0.95em;">说明：我将为合适候选人进行内推。录用结果取决于华为正规招聘流程。</small>
+        </p>
+    </div>
+
+    <div style="margin-top: 25px; text-align: center; border-top: 1px solid #eee; padding-top: 20px;">
+        <span style="font-weight: bold; color: #1a5a96;">📩 How to Apply: </span>
+        <a href="mailto:yyw@maills.com" style="text-decoration: none; color: #1a5a96; font-weight: bold; font-size: 1.15em;">yyw@maills.com</a>
+        <br><small style="color: #888;">(Please attach your CV and Transcripts / 请随信附上简历与成绩单)</small>
+    </div>
+</div>
+
+<div style="background-color: #fcfcfc; border: 1.5px solid #2c3e50; border-radius: 12px; padding: 25px; margin: 25px 0; box-shadow: 0 5px 15px rgba(0,0,0,0.08);">
+    
+    <h3 style="margin-top: 0; color: #1a5a96; border-bottom: 2px solid #1a5a96; padding-bottom: 8px;">
+        🚀 Join Our Research Group / 加入研究小组
+    </h3>
     <p style="line-height: 1.6; color: #333;">
         I am actively seeking motivated <b>undergraduate students</b> for research collaborations and <b>prospective graduates</b> for <b>Huawei</b> internships/recruitment. <br>
         我长期寻找有内驱力的<b>本科生/硕士生</b>开展科研合作，并为<b>准毕业生</b>提供<b>华为</b>实习及正式招聘的内推机会。
