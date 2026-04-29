@@ -98,6 +98,27 @@ conferences:
 
 # Patents / 专利成果
 patents:
+
+  - title: "网络感知辅助的方法及通信装置"
+    authors: "齐鸿,   秦熠, <b>杨玉雯</b>"
+    year: "2026"
+    number: "WIPO Patent No. 2026056722A1"
+
+  - title: "一种通信方法及通信装置"
+    authors: "齐鸿,  <b>杨玉雯</b>,  秦熠"
+    year: "2026"
+    number: "WIPO Patent No. 2026056733A1"
+
+  - title: "通信系统中基于AI模型的任务分配方法及相关产品"
+    authors: "齐鸿,  <b>杨玉雯</b>,   陈雁, 秦熠"
+    year: "2026"
+    number: "WIPO Patent No. 2026016729A1"
+
+  - title: "一种通信系统中的检索增强方法以及相关装置"
+    authors: "齐鸿,  <b>杨玉雯</b>,  秦熠, 徐瑞"
+    year: "2026"
+    number: "WIPO Patent No. 2026056722A1"
+    
   - title: "容错通信方法及装置"
     authors: "徐瑞, 秦熠, 曹佑龙, 庞旭, <b>杨玉雯</b>, 齐鸿"
     year: "2025"
