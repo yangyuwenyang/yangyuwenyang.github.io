@@ -83,7 +83,7 @@ Academic Achievements
 - 21 authorized invention patents.
 
 
-Academic services
+Academic Services
 ======
 1. 2025.12, IEEE Global Communications Conference (GLOBECOM) Workshop-["Semantic Communications Meets Wireless in AI Era"](https://globecom2025.ieee-globecom.org/workshop/ws-03-semantic-communications-meets-wireless-ai-era), TPC Chair.
 2. 2025.04, 移动智能通信网络(MICoN)论坛-["语义通信技术研究进展及未来方向"](https://mp.weixin.qq.com/s/DfQkfFNaSR7zqhXMZ2OsXA), Invited Speaker.
