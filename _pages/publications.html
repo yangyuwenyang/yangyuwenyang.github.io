@@ -13,42 +13,46 @@ author_profile: true
 
 {% include base_path %}
 
-<div class="archive">
+<div class="archive" style="margin-left: 0; padding-left: 0;">
   
-  <h2 class="archive__subtitle" style="border-bottom: 2px solid #2c3e50; padding-bottom: 10px;">SCI Journal Papers</h2>
-  {% for paper in site.data.papers.journals %}
-    <div style="margin-bottom: 1.5em; border-left: 4px solid #1a5a96; padding-left: 15px;">
-      <span style="font-weight: bold; color: #1a5a96;">{{ paper.id }}</span> 
-      <strong style="font-size: 1.1em;">{{ paper.title }}</strong><br>
-      {{ paper.authors }}<br>
-      <i>{{ paper.venue }}</i>, {{ paper.date | date: "%b. %Y" }}.
-      <br>
-      <small style="color: #666;">
-        Impact Factor: <b>{{ paper.if }}</b>
-        {% if paper.note %} 
-          | <span style="color: #d9534f; font-weight: bold;">🔥 {{ paper.note }}</span>
+  <h2 class="archive__subtitle" style="border-bottom: 2px solid #2c3e50; padding-bottom: 10px; margin-left: 0;">SCI Journal Papers</h2>
+  
+  <ul style="list-style: none; padding-left: 0; margin-left: 0;">
+    {% for paper in site.data.papers.journals %}
+      <li style="margin-bottom: 1.5em; border-left: 4px solid #1a5a96; padding-left: 15px; list-style: none;">
+        <span style="font-weight: bold; color: #1a5a96;">{{ paper.id }}</span> 
+        <strong style="font-size: 1.1em;">{{ paper.title }}</strong><br>
+        {{ paper.authors }}<br>
+        <i>{{ paper.venue }}</i>, {{ paper.date | date: "%b. %Y" }}.
+        <br>
+        <small style="color: #666;">
+          Impact Factor: <b>{{ paper.if }}</b>
+          {% if paper.note %} 
+            | <span style="color: #d9534f; font-weight: bold;">🔥 {{ paper.note }}</span>
+          {% endif %}
+        </small>
+        {% if paper.link != "" %}
+          | <a href="{{ paper.link }}" target="_blank" style="text-decoration: none;">[Paper]</a>
         {% endif %}
-      </small>
-      {% if paper.link != "" %}
-        | <a href="{{ paper.link }}" target="_blank" style="text-decoration: none;">[Paper]</a>
-      {% endif %}
-    </div>
-  {% endfor %}
+      </li>
+    {% endfor %}
+  </ul>
 
   <br>
 
-  <h2 class="archive__subtitle" style="border-bottom: 2px solid #2c3e50; padding-bottom: 10px;">Conference Papers</h2>
-  {% for paper in site.data.papers.conferences %}
-    <div style="margin-bottom: 1.5em; border-left: 4px solid #7f8c8d; padding-left: 15px;">
-      <span style="font-weight: bold; color: #7f8c8d;">{{ paper.id }}</span> 
-      <strong style="font-size: 1.1em;">{{ paper.title }}</strong><br>
-      {{ paper.authors }}<br>
-      <i>{{ paper.venue }}</i>, {{ paper.date | date: "%b. %Y" }}.
-      {% if paper.link != "" %}
-        <br><a href="{{ paper.link }}" target="_blank" style="text-decoration: none;">[Paper]</a>
-      {% endif %}
-    </div>
-  {% endfor %}
+  <h2 class="archive__subtitle" style="border-bottom: 2px solid #2c3e50; padding-bottom: 10px; margin-left: 0;">Conference Papers</h2>
+  <ul style="list-style: none; padding-left: 0; margin-left: 0;">
+    {% for paper in site.data.papers.conferences %}
+      <li style="margin-bottom: 1.5em; border-left: 4px solid #7f8c8d; padding-left: 15px; list-style: none;">
+        <span style="font-weight: bold; color: #7f8c8d;">{{ paper.id }}</span> 
+        <strong style="font-size: 1.1em;">{{ paper.title }}</strong><br>
+        {{ paper.authors }}<br>
+        <i>{{ paper.venue }}</i>, {{ paper.date | date: "%b. %Y" }}.
+        {% if paper.link != "" %}
+          <br><a href="{{ paper.link }}" target="_blank" style="text-decoration: none;">[Paper]</a>
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ul>
 
 </div>
-
