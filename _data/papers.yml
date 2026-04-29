@@ -96,3 +96,110 @@ conferences:
     link: ""
 
 
+# Patents / 专利成果
+patents:
+  - title: "容错通信方法及装置"
+    authors: "徐瑞, 秦熠, 曹佑龙, 庞旭, <b>杨玉雯</b>, 齐鸿"
+    year: "2025"
+    number: "CN Patent No. 121239361A; WIPO Patent No. 2026001585A1"
+
+  - title: "预编码方法及通信装置"
+    authors: "徐瑞, 秦熠, 曹佑龙, 庞旭, <b>杨玉雯</b>"
+    year: "2025"
+    number: "CN Patent No. 121239263A; WIPO Patent No. 2026001755A1"
+
+  - title: "一种容错数据传输的方法和通信装置"
+    authors: "<b>杨玉雯</b>, 秦熠, 谭志远, 徐瑞"
+    year: "2025"
+    number: "CN Patent No. 120074761A; WIPO Patent No. 2025112835A1"
+
+  - title: "一种任务处理方法及通信装置"
+    authors: "徐瑞, 秦熠, <b>杨玉雯</b>, 庞旭, 曹佑龙"
+    year: "2025"
+    number: "CN Patent No. 121037907A; WIPO Patent No. 2025246380A1"
+
+  - title: "一种通信的方法和通信装置"
+    authors: "<b>杨玉雯</b>, 秦熠, 徐瑞, 曹佑龙"
+    year: "2025"
+    number: "CN Patent No. 120343630A; WIPO Patent No. 2025152615A1"
+
+  - title: "人工智能优先级通知方法及相关装置"
+    authors: "<b>杨玉雯</b>, 秦熠, 徐瑞"
+    year: "2025"
+    number: "CN Patent No. 120950194A; WIPO Patent No. 2025236971A1"
+
+  - title: "数据校验方法及装置"
+    authors: "<b>杨玉雯</b>, 秦熠, 徐瑞, 谭志远"
+    year: "2025"
+    number: "CN Patent No. 120074745A; WIPO Patent No. 2025113031A1"
+
+  - title: "一种任务通知的方法与装置"
+    authors: "<b>杨玉雯</b>, 秦熠, 徐瑞"
+    year: "2025"
+    number: "CN Patent No. 120872513A; WIPO Patent No. 2025228230A1"
+
+  - title: "一种通信方法及装置"
+    authors: "徐瑞, 秦熠, <b>杨玉雯</b>, 庞旭, 曹佑龙"
+    year: "2025"
+    number: "CN Patent No. 121037998A; WIPO Patent No. 2025228230A1"
+
+  - title: "通信方法和通信装置"
+    authors: "徐瑞, 秦熠, <b>杨玉雯</b>, 庞旭, 曹佑龙"
+    year: "2025"
+    number: "CN Patent No. 121013112A; WIPO Patent No. 2025241995A1"
+
+  - title: "通信系统中任务执行的方法及相关装置"
+    authors: "<b>杨玉雯</b>, 秦熠, 徐瑞"
+    year: "2025"
+    number: "CN Patent No. 120825742A; WIPO Patent No. 2025218414A1"
+
+  - title: "一种基于人工智能模型的通信方法及通信装置"
+    authors: "齐鸿, <b>杨玉雯</b>, 徐瑞, 秦熠"
+    year: "2025"
+    number: "CN Patent No. 121194212A"
+
+  - title: "一种波束预测方法、装置、网络设备、摄像头及存储介质"
+    authors: "<b>杨玉雯</b>, 高飞飞, 王森, 潘成康, 刘光毅"
+    year: "2024"
+    number: "CN Patent No. 119135220A"
+
+  - title: "下行信道估计方法、装置、通信设备和存储介质"
+    authors: "高飞飞, <b>杨玉雯</b>, 菅梦楠"
+    year: "2024"
+    number: "CN Patent No. 112039807B; WIPO Patent No. 2022042182A1"
+
+  - title: "一种MIMO系统中信号的动态检测方法及装置"
+    authors: "高飞飞, <b>杨玉雯</b>"
+    year: "2024"
+    number: "CN Patent No. 114915321B"
+
+  - title: "毫米波波束预测方法及装置、电子设备、可读存储介质"
+    authors: "高飞飞, 卞程泓, 张涛, 钱婧, 汪浩, <b>杨玉雯</b>"
+    year: "2022"
+    number: "CN Patent No. 112073106B"
+
+  - title: "基于深度学习的大规模MIMO系统信号检测方法"
+    authors: "高飞飞, <b>杨玉雯</b>"
+    year: "2022"
+    number: "CN Patent No. 113037409B"
+
+  - title: "一种基于迁移学习的多用户下行信道估计方法及装置"
+    authors: "高飞飞, <b>杨玉雯</b>"
+    year: "2022"
+    number: "CN Patent No. 113011448B"
+
+  - title: "OFDM系统快时变信道参数估计方法及装置"
+    authors: "高飞飞, <b>杨玉雯</b>, 钱婧, 汪浩"
+    year: "2021"
+    number: "CN Patent No. 113497770A"
+
+  - title: "信源数量检测方法及装置"
+    authors: "高飞飞, <b>杨玉雯</b>"
+    year: "2020"
+    number: "CN Patent No. 110690930B"
+
+  - title: "下行信道估计方法、装置、通信设备和存储介质"
+    authors: "高飞飞, <b>杨玉雯</b>, 菅梦楠"
+    year: "2020"
+    number: "CN Patent No. 112039807A"
+
