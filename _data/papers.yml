@@ -7,6 +7,13 @@ journals:
     if: "17.2"
     link: ""
 
+  - title: "MIMO detector selection with federated learning"
+    authors: "<b>Y. Yang</b>, F. Gao, et al."
+    venue: "IEEE Transactions on Wireless Communications"
+    date: "2022-12-01"
+    if: "10.7"
+    link: ""
+    
   - title: "Dynamic Neural Network for Deep MIMO Detection"
     authors: "<b>Y. Yang</b>, F. Gao, et al."
     venue: "IEEE Journal on Selected Areas in Communications (JSAC)"
@@ -14,18 +21,18 @@ journals:
     if: "17.2"
     link: ""
 
+  - title: "Deep Unsupervised Learning for Joint Antenna Selection and Hybrid Beamforming"
+    authors: "Z. Liu, <b>Y. Yang</b>, F. Gao, et al."
+    venue: "IEEE Transactions on Communications"
+    date: "2022-01-01"
+    if: "8.3"
+    link: ""
+
   - title: "Deep Multimodal Learning: Merging Sensory Data for Massive MIMO Channel Prediction"
     authors: "<b>Y. Yang</b>, F. Gao, et al."
     venue: "IEEE Journal on Selected Areas in Communications (JSAC)"
     date: "2020-12-01"
     if: "17.2"
-    link: ""
-
-  - title: "MIMO detector selection with federated learning"
-    authors: "<b>Y. Yang</b>, F. Gao, et al."
-    venue: "IEEE Transactions on Wireless Communications"
-    date: "2022-12-01"
-    if: "10.7"
     link: ""
 
   - title: "Deep Transfer Learning Based Downlink Channel Prediction for FDD Massive MIMO Systems"
@@ -36,19 +43,19 @@ journals:
     note: "Citations: 200+"
     link: ""
 
+  - title: "Model-Aided Deep Neural Network for Source Number Detection"
+    authors: "<b>Y. Yang</b>, F. Gao, et al."
+    venue: "IEEE Signal Processing Letters"
+    date: "2019-12-01"
+    if: "3.9"
+    link: ""
+
   - title: "Deep Learning-Based Downlink Channel Prediction for FDD Massive MIMO System"
     authors: "<b>Y. Yang</b>, F. Gao, et al."
     venue: "IEEE Communications Letters"
     date: "2019-08-01"
     if: "4.4"
     note: "Citations: 200+"
-    link: ""
-
-  - title: "Model-Aided Deep Neural Network for Source Number Detection"
-    authors: "<b>Y. Yang</b>, F. Gao, et al."
-    venue: "IEEE Signal Processing Letters"
-    date: "2019-12-01"
-    if: "3.9"
     link: ""
 
   - title: "Deep Learning-Based Channel Estimation for Doubly Selective Fading Channels"
@@ -66,12 +73,7 @@ journals:
     if: "7.1"
     link: ""
 
-  - title: "Deep Unsupervised Learning for Joint Antenna Selection and Hybrid Beamforming"
-    authors: "Z. Liu, <b>Y. Yang</b>, F. Gao, et al."
-    venue: "IEEE Transactions on Communications"
-    date: "2022-01-01"
-    if: "8.3"
-    link: ""
+
 
 # Conference Papers / 会议论文
 conferences:
@@ -81,14 +83,16 @@ conferences:
     date: "2021-08-01"
     link: ""
 
+  - title: "Packet Routing Against Network Congestion: A Deep Multi-agent Reinforcement Learning Approach"
+    authors: "R. Ding, <b>Y. Yang</b>, F. Gao, et al."
+    venue: "IEEE ICNC"
+    date: "2020-03-01"
+    link: ""
+    
   - title: "Mode Modulation for Orbital-Angular-Momentum Based Wireless Vorticose Communications"
     authors: "<b>Y. Yang</b>, W. Cheng, et al."
     venue: "IEEE GLOBECOM"
     date: "2018-01-01"
     link: ""
 
-  - title: "Packet Routing Against Network Congestion: A Deep Multi-agent Reinforcement Learning Approach"
-    authors: "R. Ding, <b>Y. Yang</b>, F. Gao, et al."
-    venue: "IEEE ICNC"
-    date: "2020-03-01"
-    link: ""
+
