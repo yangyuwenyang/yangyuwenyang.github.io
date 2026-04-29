@@ -7,7 +7,7 @@ author_profile: true
 
 {% if site.author.googlescholar %}
   <div class="wordwrap" style="margin-bottom: 20px;">
-    You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.
+    This page was last updated in May 2026. For the latest information, please refer to  <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.
   </div>
 {% endif %}
 
@@ -15,12 +15,17 @@ author_profile: true
 
 <div class="archive" style="margin-left: 0; padding-left: 0;">
   
-  <h2 class="archive__subtitle" style="border-bottom: 2px solid #2c3e50; padding-bottom: 10px; margin-left: 0;">Journal Papers</h2>
+  <h2 class="archive__subtitle" style="border-bottom: 2px solid #2c3e50; padding-bottom: 10px;">Journal Papers</h2>
+  
+  {% comment %} 计算期刊总数 {% endcomment %}
+  {% assign journal_size = site.data.papers.journals.size %}
   
   <ul style="list-style: none; padding-left: 0; margin-left: 0;">
     {% for paper in site.data.papers.journals %}
-      <li style="margin-bottom: 1.5em; border-left: 4px solid #1a5a96; padding-left: 15px; list-style: none;">
-        <span style="font-weight: bold; color: #1a5a96;">{{ paper.id }}</span> 
+      <li style="margin-bottom: 1.5em; border-left: 4px solid #1a5a96; padding-left: 15px;">
+        <span style="font-weight: bold; color: #1a5a96;">
+          [J{{ journal_size | minus: forloop.index0 }}]
+        </span> 
         <strong style="font-size: 1.1em;">{{ paper.title }}</strong><br>
         {{ paper.authors }}<br>
         <i>{{ paper.venue }}</i>, {{ paper.date | date: "%b. %Y" }}.
@@ -40,11 +45,17 @@ author_profile: true
 
   <br>
 
-  <h2 class="archive__subtitle" style="border-bottom: 2px solid #2c3e50; padding-bottom: 10px; margin-left: 0;">Conference Papers</h2>
+  <h2 class="archive__subtitle" style="border-bottom: 2px solid #2c3e50; padding-bottom: 10px;">Conference Papers</h2>
+  
+  {% comment %} 计算会议总数 {% endcomment %}
+  {% assign conf_size = site.data.papers.conferences.size %}
+  
   <ul style="list-style: none; padding-left: 0; margin-left: 0;">
     {% for paper in site.data.papers.conferences %}
-      <li style="margin-bottom: 1.5em; border-left: 4px solid #7f8c8d; padding-left: 15px; list-style: none;">
-        <span style="font-weight: bold; color: #7f8c8d;">{{ paper.id }}</span> 
+      <li style="margin-bottom: 1.5em; border-left: 4px solid #7f8c8d; padding-left: 15px;">
+        <span style="font-weight: bold; color: #7f8c8d;">
+          [C{{ conf_size | minus: forloop.index0 }}]
+        </span> 
         <strong style="font-size: 1.1em;">{{ paper.title }}</strong><br>
         {{ paper.authors }}<br>
         <i>{{ paper.venue }}</i>, {{ paper.date | date: "%b. %Y" }}.
