@@ -1,0 +1,30 @@
+---
+layout: archive
+title: "Patents"
+permalink: /patents/
+author_profile: true
+---
+
+{% include base_path %}
+
+<div class="archive" style="margin-left: 0; padding-left: 0;">
+  
+  <h2 class="archive__subtitle" style="border-bottom: 2px solid #27ae60; padding-bottom: 10px;">Full Patent List</h2>
+  
+  {% comment %} 获取 _data/papers.yml 中的专利数据 {% endcomment %}
+  {% assign patent_size = site.data.papers.patents.size %}
+  
+  <ul style="list-style: none; padding-left: 0; margin-left: 0;">
+    {% for patent in site.data.papers.patents %}
+      <li style="margin-bottom: 1.5em; border-left: 4px solid #27ae60; padding-left: 15px;">
+        <span style="font-weight: bold; color: #27ae60;">
+          [P{{ patent_size | minus: forloop.index0 }}]
+        </span> 
+        <strong style="font-size: 1.1em;">{{ patent.title }}</strong><br>
+        {{ patent.authors }}<br>
+        <i>{{ patent.number }}</i>, {{ patent.year }}.
+      </li>
+    {% endfor %}
+  </ul>
+
+</div>
