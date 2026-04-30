@@ -80,7 +80,7 @@ Academic Achievements
 ======
 - 10 SCI journal publications (9 as the first author) and 3 conference papers.
 - 3 papers with 200+ citations each. Total citations exceeding 1,100 [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=u-Nbg0wAAAAJ).
-- 21 authorized invention patents.
+
 
 
 Academic Services
