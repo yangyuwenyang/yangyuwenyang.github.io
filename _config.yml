@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png.jpg"
+  avatar           : "profile26.png"
   name             : "Yuwen Yang, Ph.D. (杨玉雯)"
   pronouns         : # example: "she/her"  
   position         : "Tenure-track Assistant Professor"
