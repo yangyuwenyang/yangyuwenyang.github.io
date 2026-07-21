@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 I will soon join Nanjing University as a tenure-track Assistant Professor. Prior to this, I joined the Huawei Wireless Network Research Department in 2023 through Huawei’s Top Minds Program (“天才少年”计划) and became a Project Leader in 2025.
-I earned my Ph.D. from Tsinghua University in 2023, supervised by Prof. FeiFei Gao. I received my bachelor's degree from Xidian University in 2018, supervised by Prof. Wenchi Cheng.  
+I earned my Ph.D. from Tsinghua University in 2023, advised by Prof. Feifei Gao. Earlier, I received my B.S. from Xidian University in 2018, advised by Prof. Wenchi Cheng.
 
 
 Research Interests
