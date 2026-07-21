@@ -6,8 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-I joined the Huawei Wireless Network Research Department in 2023 through Huawei’s Top Minds Program (“天才少年”计划) and became a Project Leader in 2025.
+I will soon join Nanjing University as a tenure-track Assistant Professor. Prior to this, I joined the Huawei Wireless Network Research Department in 2023 through Huawei’s Top Minds Program (“天才少年”计划) and became a Project Leader in 2025.
 I earned my Ph.D. from Tsinghua University in 2023, supervised by Prof. FeiFei Gao. I received my bachelor's degree from Xidian University in 2018, supervised by Prof. Wenchi Cheng.  
 
 
@@ -21,12 +20,31 @@ My research lies at the intersection of **Artificial Intelligence** and **Next-g
 <div style="background-color: #ffffff; border: 1.5px solid #2c3e50; border-radius: 12px; padding: 25px; margin: 25px 0; box-shadow: 0 5px 15px rgba(0,0,0,0.08);">
     
     <h3 style="margin-top: 0; color: #1a5a96; border-bottom: 2px solid #1a5a96; padding-bottom: 8px; text-align: center;">
-        🚀 Opportunities / 招生与内推
+        🚀 Opportunities / 招生
     </h3>
     <p style="line-height: 1.6; color: #333; text-align: center; margin-bottom: 25px;">
-        欢迎有内驱力的同学加入研究小组或申请华为工作岗位。
+        欢迎有内驱力的同学加入实验室
     </p>
 
+    <div style="border: 1px solid #dee2e6; background-color: #f8f9fa; border-radius: 10px; padding: 20px;">
+        <h4 style="color: #333; margin-top: 0; margin-bottom: 15px; font-size: 1.35em; font-weight: bold; border-left: 5px solid #333; padding-left: 10px;">
+            📍  For Prospective Ph.D. Students (Fall 2027, Master's Degree Holders) / 2027年秋季普博生招生
+        </h4>
+        
+        <ul style="font-size: 0.95em; line-height: 1.6; color: #444; margin-top: 5px; margin-bottom: 15px;">
+            <li><b>Candidates:</b> Prospective graduates (Master). (即将毕业的硕士研究生)</li>
+            <li><b>Requirements:</b>Relevant project experience includes deep learning, LLM, AI agents, and multimedia transmission. (在深度学习、大模型、智能体、多媒体传输领域有成果积累)</li>
+            <li><b> Reminder:</b> Please get in touch as early as possible. The official application deadline is December 2026, and the official assessment will take place from February to March 2027. (请尽早联系，系统正式报名截止26年12月，正式考核时间27年2月-27年3月)</li>
+        </ul>
+
+        <div style="background-color: #ffffff; padding: 12px; border-radius: 8px; font-size: 0.9em; border: 1px solid #dee2e6;">
+            <b style="color: #333;">💼 How I support / 提供的支持：</b>
+            <p style="margin-top: 5px; margin-bottom: 0; line-height: 1.5;">
+                针对合适候选人提供报名和招录建议。具体录用流程遵循学校官方程序。
+            </p>
+        </div>
+    </div>
+    
     <div style="border: 1px solid #d1e2f3; background-color: #f9fbfe; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
         <h4 style="color: #1a5a96; margin-top: 0; margin-bottom: 15px; font-size: 1.35em; font-weight: bold; border-left: 5px solid #1a5a96; padding-left: 10px;">
             📍 For Undergraduates / 本科生科研合作
@@ -49,23 +67,7 @@ My research lies at the intersection of **Artificial Intelligence** and **Next-g
         </div>
     </div>
 
-    <div style="border: 1px solid #dee2e6; background-color: #f8f9fa; border-radius: 10px; padding: 20px;">
-        <h4 style="color: #333; margin-top: 0; margin-bottom: 15px; font-size: 1.35em; font-weight: bold; border-left: 5px solid #333; padding-left: 10px;">
-            📍 For Huawei Opportunities / 实习及招聘内推
-        </h4>
-        
-        <ul style="font-size: 0.95em; line-height: 1.6; color: #444; margin-top: 5px; margin-bottom: 15px;">
-            <li><b>Candidates:</b> Prospective graduates (Master/PhD). (即将毕业的研究生/博士生)</li>
-            <li><b>Requirements:</b> Achievements in Semantic Communications or Wireless Sensing. (在语义通信、无线感知领域有成果积累)</li>
-        </ul>
 
-        <div style="background-color: #ffffff; padding: 12px; border-radius: 8px; font-size: 0.9em; border: 1px solid #dee2e6;">
-            <b style="color: #333;">💼 How I support / 提供的支持：</b>
-            <p style="margin-top: 5px; margin-bottom: 0; line-height: 1.5;">
-                针对合适候选人进行<b>简历内推</b>至华为无线相关部门。具体录用流程由华为校招/社招官方程序决定。
-            </p>
-        </div>
-    </div>
 
     <div style="margin-top: 25px; text-align: center; border-top: 1px solid #eee; padding-top: 20px;">
         <span style="font-weight: bold; color: #1a5a96;">📩 Contact: </span>
