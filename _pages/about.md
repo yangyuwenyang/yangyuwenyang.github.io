@@ -32,8 +32,8 @@ My research lies at the intersection of **Artificial Intelligence** and **Next-g
         </h4>
         
         <ul style="font-size: 0.95em; line-height: 1.6; color: #444; margin-top: 5px; margin-bottom: 15px;">
-            <li><b>Candidates:</b> Prospective graduates (Master). (即将毕业的硕士研究生)</li>
-            <li><b>Requirements:</b>Relevant project experience includes deep learning, LLM, AI agents, and multimedia transmission. (在深度学习、大模型、智能体、多媒体传输领域有成果积累)</li>
+            <li><b>Candidates:</b> Graduating Master's students. (即将毕业的硕士研究生)</li>
+            <li><b>Requirements:</b> Relevant project experience includes deep learning, LLM, AI agents, and multimedia transmission. (在深度学习、大模型、智能体、多媒体传输领域有成果积累)</li>
             <li><b> Reminder:</b> Please get in touch as early as possible. The official application deadline is December 2026, and the official assessment will take place from February to March 2027. (请尽早联系，系统正式报名截止26年12月，正式考核时间27年2月-27年3月)</li>
         </ul>
 
